@@ -2,6 +2,7 @@ var imgs = ["images/food1.jpg","images/food2.jpg","images/food3.jpg","images/foo
 var zebra = 0;
 var clickCount = 0;
 
+/*This is the next button function*/
 function nextImg(){
   clickCount++;
   if(clickCount === 3){
